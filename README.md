@@ -35,8 +35,8 @@ The **ShopoSphere platform** is structured as a microservice with the following 
 ### 9. `shoposphere-shipping-service`
 - **Description**: Handles shipping and tracking of customer orders.
 
-### 10. `shopsphere-shared`
+### 10. `shoposphere-shared`
 - **Description**: Shared libraries containing common DTOs, models, and exceptions used across all services.
 
-### 11. `shopsphere-zipkin-server`
+### 11. `shoposphere-zipkin-server`
 - **Description**: Self-hosted Zipkin server for distributed tracing of requests across services.
